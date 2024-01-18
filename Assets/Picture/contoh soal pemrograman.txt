@@ -1,0 +1,4 @@
+input gaji
+jika gaji >= 6000000
+-> gaji - pajak 6%
+tampilkan gaji
